@@ -10,17 +10,17 @@ global.location = "Pakistan, Sialkot, Lahore" //ur location
 
 //new
 global.botname = 'ᴄʜᴜɢᴜyᴀɴ-ᴍᴅ' //ur bot name
-global.ownernumber = ['919778535328'] //ur owner number, dont add more than one
-global.ownername = 'ᴄʜyɢɪyᴀɴ-ᴍᴅ' //ur owner name
+global.ownernumber = ['2348109243618'] //ur owner number, dont add more than one
+global.ownername = '𝕯𝖆𝖛𝖎𝖉' //ur owner name
 global.websitex = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
 global.wagc = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
 global.themeemoji = '🪀'
 global.wm = "ᴄʜᴜɢɪyᴀɴ Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
-global.packname = "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈"
-global.author = "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈"
+global.packname = "𝕵𝖊 𝖛𝖔𝖎𝖘 𝖘𝖙𝖎𝖈𝖐𝖊𝖗 𝖕𝖆𝖈𝖐"
+global.author = "𝕯𝖆𝖛𝖎𝖉"
 global.creator = "919778535328@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '!'
 global.premium = ["919778535328"] // Premium User
 
 //channel id
